@@ -4,6 +4,6 @@ Topic: Bài toán: Sau khi bitcoin và các đồng tiền ảo sụt giảm, c�
 Mô tả cụ thể:
 Nguồn dữ liệu cần crawl là danh mục sau: https://www.newegg.com/GPUs-Video-Graphics-Cards/SubCategory/ID-48?Tid=7709
 
-Collecg_Data_mysql: Collect data from website and save it in Database Project2
-Visualization.ipynb: To visualize data in database Project2
-
+1. Collecg_Data_mysql: Collect data from website and save it in Database Project2
+2. Visualization.ipynb: To visualize data in database Project2
+3. db_Pr
