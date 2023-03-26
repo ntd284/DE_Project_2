@@ -6,4 +6,7 @@ Nguồn dữ liệu cần crawl là danh mục sau: https://www.newegg.com/GPUs-
 
 1. Collecg_Data_mysql: Collect data from website and save it in Database Project2
 2. Visualization.ipynb: To visualize data in database Project2
-3. db_Pr
+3. db_Prod.sql: to contains database Project2.
+
+
+
