@@ -9,4 +9,5 @@ Nguồn dữ liệu cần crawl là danh mục sau: https://www.newegg.com/GPUs-
 3. db_Prod.sql: to contains database Project2.
 
 
+![image](https://user-images.githubusercontent.com/76422896/227749428-fc4c4880-e2d3-4aca-8759-bb475806cb4f.png)
 
